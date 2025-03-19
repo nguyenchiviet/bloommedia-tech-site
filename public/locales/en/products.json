@@ -1,0 +1,46 @@
+{
+  "title": "Our Products",
+  "overview": {
+    "title": "Product Overview",
+    "content1": "We offer a comprehensive suite of products designed to meet the diverse needs of businesses across various industries. Our solutions are built with cutting-edge technology and are designed to be scalable, secure, and user-friendly.",
+    "content2": "Whether you're looking for enterprise software, cloud solutions, or custom applications, we have the expertise and experience to deliver products that exceed your expectations."
+  },
+  "categories": {
+    "enterprise": {
+      "title": "Enterprise Solutions",
+      "items": [
+        "Enterprise Resource Planning (ERP)",
+        "Customer Relationship Management (CRM)",
+        "Business Intelligence (BI)",
+        "Supply Chain Management"
+      ]
+    },
+    "cloud": {
+      "title": "Cloud Services",
+      "items": [
+        "Cloud Infrastructure",
+        "Software as a Service (SaaS)",
+        "Platform as a Service (PaaS)",
+        "Cloud Security Solutions"
+      ]
+    },
+    "mobile": {
+      "title": "Mobile Applications",
+      "items": [
+        "iOS and Android Development",
+        "Cross-Platform Solutions",
+        "Mobile Enterprise Applications",
+        "Mobile Commerce Solutions"
+      ]
+    },
+    "custom": {
+      "title": "Custom Solutions",
+      "items": [
+        "Custom Software Development",
+        "Legacy System Integration",
+        "API Development and Integration",
+        "Workflow Automation"
+      ]
+    }
+  }
+}

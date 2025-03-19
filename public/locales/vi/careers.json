@@ -1,0 +1,83 @@
+{
+  "title": "Tuyển Dụng",
+  "join": {
+    "title": "Tham Gia Đội Ngũ Của Chúng Tôi",
+    "content1": "Chúng tôi luôn tìm kiếm những cá nhân tài năng để tham gia vào đội ngũ của chúng tôi. Chúng tôi cung cấp môi trường làm việc năng động, mức lương cạnh tranh và cơ hội phát triển nghề nghiệp.",
+    "content2": "Tại công ty chúng tôi, chúng tôi coi trọng sự đa dạng, sáng tạo và đổi mới. Chúng tôi tin rằng thành công của chúng tôi được thúc đẩy bởi niềm đam mê và sự cống hiến của nhân viên."
+  },
+  "openings": {
+    "title": "Vị Trí Đang Tuyển",
+    "apply": "Ứng Tuyển Ngay",
+    "jobs": [
+      {
+        "title": "Kỹ Sư Phần Mềm Cao Cấp",
+        "department": "Kỹ Thuật",
+        "location": "TP. Hồ Chí Minh, Việt Nam",
+        "type": "Toàn thời gian"
+      },
+      {
+        "title": "Nhà Thiết Kế UX/UI",
+        "department": "Thiết Kế",
+        "location": "TP. Hồ Chí Minh, Việt Nam",
+        "type": "Toàn thời gian"
+      },
+      {
+        "title": "Quản Lý Sản Phẩm",
+        "department": "Sản Phẩm",
+        "location": "Hà Nội, Việt Nam",
+        "type": "Toàn thời gian"
+      },
+      {
+        "title": "Chuyên Viên Tiếp Thị",
+        "department": "Tiếp Thị",
+        "location": "TP. Hồ Chí Minh, Việt Nam",
+        "type": "Toàn thời gian"
+      },
+      {
+        "title": "Đại Diện Hỗ Trợ Khách Hàng",
+        "department": "Thành Công Khách Hàng",
+        "location": "Từ xa",
+        "type": "Toàn thời gian"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Phúc Lợi & Đãi Ngộ",
+    "health": {
+      "title": "Sức Khỏe & Wellness",
+      "items": [
+        "Bảo hiểm sức khỏe toàn diện",
+        "Bảo hiểm nha khoa và thị lực",
+        "Chương trình wellness",
+        "Thẻ thành viên phòng tập gym"
+      ]
+    },
+    "worklife": {
+      "title": "Cân Bằng Công Việc-Cuộc Sống",
+      "items": [
+        "Giờ làm việc linh hoạt",
+        "Tùy chọn làm việc từ xa",
+        "Nghỉ phép có lương",
+        "Nghỉ thai sản"
+      ]
+    },
+    "development": {
+      "title": "Phát Triển Chuyên Môn",
+      "items": [
+        "Ngân sách học tập và phát triển",
+        "Tham dự hội nghị",
+        "Chương trình cố vấn",
+        "Cơ hội thăng tiến nghề nghiệp"
+      ]
+    },
+    "culture": {
+      "title": "Văn Hóa Công Ty",
+      "items": [
+        "Hoạt động xây dựng đội ngũ",
+        "Chuyến đi công ty",
+        "Chương trình ghi nhận",
+        "Môi trường làm việc đa dạng và hòa nhập"
+      ]
+    }
+  }
+}

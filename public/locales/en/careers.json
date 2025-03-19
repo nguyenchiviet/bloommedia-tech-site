@@ -1,0 +1,83 @@
+{
+  "title": "Careers",
+  "join": {
+    "title": "Join Our Team",
+    "content1": "We're always looking for talented individuals to join our team. We offer a dynamic work environment, competitive compensation, and opportunities for professional growth and development.",
+    "content2": "At our company, we value diversity, creativity, and innovation. We believe that our success is driven by the passion and dedication of our employees."
+  },
+  "openings": {
+    "title": "Current Openings",
+    "apply": "Apply Now",
+    "jobs": [
+      {
+        "title": "Senior Software Engineer",
+        "department": "Engineering",
+        "location": "Ho Chi Minh City, Vietnam",
+        "type": "Full-time"
+      },
+      {
+        "title": "UX/UI Designer",
+        "department": "Design",
+        "location": "Ho Chi Minh City, Vietnam",
+        "type": "Full-time"
+      },
+      {
+        "title": "Product Manager",
+        "department": "Product",
+        "location": "Hanoi, Vietnam",
+        "type": "Full-time"
+      },
+      {
+        "title": "Marketing Specialist",
+        "department": "Marketing",
+        "location": "Ho Chi Minh City, Vietnam",
+        "type": "Full-time"
+      },
+      {
+        "title": "Customer Support Representative",
+        "department": "Customer Success",
+        "location": "Remote",
+        "type": "Full-time"
+      }
+    ]
+  },
+  "benefits": {
+    "title": "Benefits & Perks",
+    "health": {
+      "title": "Health & Wellness",
+      "items": [
+        "Comprehensive health insurance",
+        "Dental and vision coverage",
+        "Wellness programs",
+        "Gym membership"
+      ]
+    },
+    "worklife": {
+      "title": "Work-Life Balance",
+      "items": [
+        "Flexible working hours",
+        "Remote work options",
+        "Paid time off",
+        "Parental leave"
+      ]
+    },
+    "development": {
+      "title": "Professional Development",
+      "items": [
+        "Learning and development budget",
+        "Conference attendance",
+        "Mentorship programs",
+        "Career advancement opportunities"
+      ]
+    },
+    "culture": {
+      "title": "Company Culture",
+      "items": [
+        "Team building activities",
+        "Company retreats",
+        "Recognition programs",
+        "Inclusive and diverse workplace"
+      ]
+    }
+  }
+}

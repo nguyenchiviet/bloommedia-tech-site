@@ -1,0 +1,57 @@
+{
+  "title": "Văn Hóa Công Ty",
+  "subtitle": "Văn hóa của chúng tôi là nền tảng của mọi thứ chúng tôi làm. Nó định hình cách chúng tôi làm việc, cách chúng tôi tương tác với nhau và cách chúng tôi phục vụ khách hàng.",
+  "values": {
+    "title": "Giá Trị Cốt Lõi Của Chúng Tôi",
+    "content": "Các giá trị cốt lõi của chúng tôi hướng dẫn hành động và quyết định của chúng tôi. Chúng định nghĩa chúng tôi là ai với tư cách là một công ty và chúng tôi đại diện cho điều gì.",
+    "items": [
+      {
+        "title": "Đổi Mới",
+        "description": "Chúng tôi đón nhận sự thay đổi và liên tục tìm kiếm những cách mới và tốt hơn để phục vụ khách hàng."
+      },
+      {
+        "title": "Chính Trực",
+        "description": "Chúng tôi tiến hành kinh doanh với sự trung thực, minh bạch và hành vi đạo đức."
+      },
+      {
+        "title": "Hợp Tác",
+        "description": "Chúng tôi tin vào sức mạnh của làm việc nhóm và đối tác để đạt được mục tiêu của mình."
+      },
+      {
+        "title": "Xuất Sắc",
+        "description": "Chúng tôi phấn đấu để đạt được sự xuất sắc trong mọi việc chúng tôi làm, từ phát triển sản phẩm đến dịch vụ khách hàng."
+      }
+    ]
+  },
+  "environment": {
+    "title": "Môi Trường Làm Việc",
+    "content": "Chúng tôi tin rằng một môi trường làm việc tích cực là điều cần thiết cho sự sáng tạo, năng suất và sự hài lòng trong công việc. Đó là lý do tại sao chúng tôi đã tạo ra một không gian làm việc:",
+    "items": [
+      "Hợp tác và cởi mở",
+      "Linh hoạt và thích ứng",
+      "Hỗ trợ và hòa nhập",
+      "Vui vẻ và hấp dẫn"
+    ]
+  },
+  "development": {
+    "title": "Phát Triển Chuyên Môn",
+    "content": "Chúng tôi cam kết phát triển và tăng trưởng chuyên môn của nhân viên. Chúng tôi cung cấp:",
+    "items": [
+      "Cơ hội học tập liên tục",
+      "Chương trình cố vấn",
+      "Con đường thăng tiến nghề nghiệp",
+      "Phản hồi thường xuyên và đánh giá hiệu suất"
+    ]
+  },
+  "community": {
+    "title": "Tham Gia Cộng Đồng",
+    "content1": "Chúng tôi tin vào việc đóng góp cho cộng đồng nơi chúng tôi sống và làm việc. Chúng tôi tham gia vào nhiều sáng kiến cộng đồng khác nhau, bao gồm:",
+    "items": [
+      "Chương trình tình nguyện",
+      "Quyên góp từ thiện",
+      "Nỗ lực bền vững môi trường",
+      "Hợp tác giáo dục"
+    ],
+    "content2": "Chúng tôi khuyến khích nhân viên tham gia vào các sáng kiến này và hỗ trợ các mục đích quan trọng đối với họ."
+  }
+}

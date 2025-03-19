@@ -1,0 +1,26 @@
+{
+  "title": "Về Chúng Tôi",
+  "story": {
+    "title": "Câu Chuyện Của Chúng Tôi",
+    "content1": "Được thành lập vào năm 2010, công ty chúng tôi đã phát triển từ một công ty khởi nghiệp nhỏ thành nhà cung cấp hàng đầu các giải pháp sáng tạo cho doanh nghiệp trong nhiều ngành công nghiệp khác nhau.",
+    "content2": "Sứ mệnh của chúng tôi là trao quyền cho các doanh nghiệp với công nghệ tiên tiến và dịch vụ xuất sắc, giúp họ phát triển mạnh mẽ trong thị trường cạnh tranh ngày nay."
+  },
+  "vision": {
+    "title": "Tầm Nhìn Của Chúng Tôi",
+    "content": "Trở thành nhà lãnh đạo toàn cầu trong việc cung cấp các giải pháp sáng tạo nhằm chuyển đổi doanh nghiệp và cải thiện cuộc sống."
+  },
+  "mission": {
+    "title": "Sứ Mệnh Của Chúng Tôi",
+    "content": "Cung cấp sản phẩm và dịch vụ xuất sắc vượt quá mong đợi của khách hàng và thúc đẩy tăng trưởng kinh doanh."
+  },
+  "values": {
+    "title": "Giá Trị Của Chúng Tôi",
+    "items": [
+      "Đổi mới: Chúng tôi liên tục tìm kiếm những cách mới và tốt hơn để phục vụ khách hàng.",
+      "Chính trực: Chúng tôi tiến hành kinh doanh với sự trung thực và minh bạch.",
+      "Xuất sắc: Chúng tôi phấn đấu để đạt được sự xuất sắc trong mọi việc chúng tôi làm.",
+      "Hợp tác: Chúng tôi tin vào sức mạnh của làm việc nhóm và đối tác.",
+      "Tập trung vào khách hàng: Khách hàng của chúng tôi là trung tâm của mọi việc chúng tôi làm."
+    ]
+  }
+}

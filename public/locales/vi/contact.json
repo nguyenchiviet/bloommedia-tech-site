@@ -1,0 +1,39 @@
+{
+  "title": "Liên Hệ",
+  "form": {
+    "title": "Liên Hệ Với Chúng Tôi",
+    "content": "Chúng tôi rất muốn nghe từ bạn. Vui lòng điền vào biểu mẫu và chúng tôi sẽ liên hệ lại với bạn trong thời gian sớm nhất.",
+    "name": "Họ tên",
+    "email": "Email",
+    "subject": "Tiêu đề",
+    "message": "Tin nhắn",
+    "submit": "Gửi Tin Nhắn",
+    "namePlaceholder": "Họ tên của bạn",
+    "emailPlaceholder": "Email của bạn",
+    "subjectPlaceholder": "Tiêu đề",
+    "messagePlaceholder": "Tin nhắn của bạn"
+  },
+  "info": {
+    "title": "Thông Tin Liên Hệ",
+    "address": {
+      "title": "Địa chỉ",
+      "content": "123 Đường Kinh Doanh, Quận 1, TP. Hồ Chí Minh, Việt Nam"
+    },
+    "phone": {
+      "title": "Điện thoại",
+      "content": "+84 28 1234 5678"
+    },
+    "email": {
+      "title": "Email",
+      "content": "info@company.com"
+    },
+    "hours": {
+      "title": "Giờ Làm Việc",
+      "weekdays": "Thứ Hai - Thứ Sáu: 9:00 - 18:00",
+      "weekend": "Thứ Bảy - Chủ Nhật: Đóng cửa"
+    }
+  },
+  "social": {
+    "title": "Theo Dõi Chúng Tôi"
+  }
+}

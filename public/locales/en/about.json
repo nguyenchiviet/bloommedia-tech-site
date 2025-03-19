@@ -1,0 +1,26 @@
+{
+  "title": "About Us",
+  "story": {
+    "title": "Our Story",
+    "content1": "Founded in 2010, our company has grown from a small startup to a leading provider of innovative solutions for businesses across various industries.",
+    "content2": "Our mission is to empower businesses with cutting-edge technology and exceptional service, helping them thrive in today's competitive market."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "content": "To be the global leader in providing innovative solutions that transform businesses and improve lives."
+  },
+  "mission": {
+    "title": "Our Mission",
+    "content": "To deliver exceptional products and services that exceed customer expectations and drive business growth."
+  },
+  "values": {
+    "title": "Our Values",
+    "items": [
+      "Innovation: We constantly seek new and better ways to serve our customers.",
+      "Integrity: We conduct our business with honesty and transparency.",
+      "Excellence: We strive for excellence in everything we do.",
+      "Collaboration: We believe in the power of teamwork and partnership.",
+      "Customer Focus: Our customers are at the center of everything we do."
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Sản Phẩm Của Chúng Tôi",
+  "overview": {
+    "title": "Tổng Quan Sản Phẩm",
+    "content1": "Chúng tôi cung cấp một bộ sản phẩm toàn diện được thiết kế để đáp ứng nhu cầu đa dạng của doanh nghiệp trong nhiều ngành công nghiệp khác nhau. Các giải pháp của chúng tôi được xây dựng với công nghệ tiên tiến và được thiết kế để có thể mở rộng, an toàn và thân thiện với người dùng.",
+    "content2": "Cho dù bạn đang tìm kiếm phần mềm doanh nghiệp, giải pháp đám mây, hoặc ứng dụng tùy chỉnh, chúng tôi có chuyên môn và kinh nghiệm để cung cấp sản phẩm vượt quá mong đợi của bạn."
+  },
+  "categories": {
+    "enterprise": {
+      "title": "Giải Pháp Doanh Nghiệp",
+      "items": [
+        "Hoạch Định Tài Nguyên Doanh Nghiệp (ERP)",
+        "Quản Lý Quan Hệ Khách Hàng (CRM)",
+        "Trí Tuệ Kinh Doanh (BI)",
+        "Quản Lý Chuỗi Cung Ứng"
+      ]
+    },
+    "cloud": {
+      "title": "Dịch Vụ Đám Mây",
+      "items": [
+        "Cơ Sở Hạ Tầng Đám Mây",
+        "Phần Mềm Dưới Dạng Dịch Vụ (SaaS)",
+        "Nền Tảng Dưới Dạng Dịch Vụ (PaaS)",
+        "Giải Pháp Bảo Mật Đám Mây"
+      ]
+    },
+    "mobile": {
+      "title": "Ứng Dụng Di Động",
+      "items": [
+        "Phát Triển iOS và Android",
+        "Giải Pháp Đa Nền Tảng",
+        "Ứng Dụng Doanh Nghiệp Di Động",
+        "Giải Pháp Thương Mại Di Động"
+      ]
+    },
+    "custom": {
+      "title": "Giải Pháp Tùy Chỉnh",
+      "items": [
+        "Phát Triển Phần Mềm Tùy Chỉnh",
+        "Tích Hợp Hệ Thống Cũ",
+        "Phát Triển và Tích Hợp API",
+        "Tự Động Hóa Quy Trình Làm Việc"
+      ]
+    }
+  }
+}

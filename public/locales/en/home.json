@@ -1,0 +1,28 @@
+{
+  "hero": {
+    "title": "Innovative Solutions for Modern Businesses",
+    "subtitle": "We help companies transform their digital presence with cutting-edge technology and strategic insights.",
+    "cta": {
+      "products": "Explore Products",
+      "contact": "Contact Us"
+    }
+  },
+  "features": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions tailored to your business needs",
+    "items": [
+      {
+        "title": "Digital Transformation",
+        "description": "We help businesses evolve in the digital age with comprehensive strategies and implementation."
+      },
+      {
+        "title": "Cloud Solutions",
+        "description": "Scalable and secure cloud infrastructure to power your business applications and data."
+      },
+      {
+        "title": "Custom Software",
+        "description": "Bespoke software solutions designed specifically for your unique business requirements."
+      }
+    ]
+  }
+}

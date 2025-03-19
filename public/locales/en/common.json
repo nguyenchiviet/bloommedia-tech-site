@@ -1,0 +1,20 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "careers": "Careers",
+    "culture": "Company Culture",
+    "contact": "Contact"
+  },
+  "footer": {
+    "company": "Company",
+    "products": "Products",
+    "resources": "Resources",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "overview": "Products Overview",
+    "rights": "All rights reserved."
+  }
+}

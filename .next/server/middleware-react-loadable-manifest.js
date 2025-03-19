@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components/HeroSection.tsx -> @/public/locales/en/home.json\":{\"id\":\"components/HeroSection.tsx -> @/public/locales/en/home.json\",\"files\":[\"static/chunks/_app-pages-browser_public_locales_en_home_json.js\"]}}"
